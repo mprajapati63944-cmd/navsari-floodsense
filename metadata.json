@@ -1,0 +1,6 @@
+{
+  "name": "Navsari Urban Flood Prediction",
+  "description": "Interactive flood risk monitoring and urban rainfall prediction dashboard for Navsari, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
